@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'bariol_regularregular';
+    src: url('bariol_regular-webfont.eot');
+    src: url('bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bariol_regular-webfont.woff') format('woff'),
+         url('bariol_regular-webfont.ttf') format('truetype'),
+         url('bariol_regular-webfont.svg#bariol_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.flex-control-nav{display: none;}
+body{color: #A99C6D;margin: 0;padding-top: 0;font-family: "bariol_regularregular"}
+.top-container{width: 100%;display: table;margin-top: 3%}
+.div-top-logo{display: table-cell;width: 33%;text-align: center;}
+.div-top-middle{display: table-cell;width: 33%;font-size: 24px;vertical-align: middle;text-align: center;}
+.div-top-form{display: table-cell;width: 33%;vertical-align: middle;}
+.div-contact{text-align: center;margin-top: 2%;font-size: 22px}
+.div-contact hr{width: 20%;border-top: 1px solid #A99C6D;color: transparent;}
