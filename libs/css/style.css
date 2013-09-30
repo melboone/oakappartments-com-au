@@ -11,10 +11,21 @@
 }
 .flex-control-nav{display: none;}
 body{color: #A99C6D;margin: 0;padding-top: 0;font-family: "bariol_regularregular"}
+#oak-logo{min-width: 20%;max-width: 100%;width:280px;}
 .top-container{width: 100%;display: table;margin-top: 3%}
-.div-top-logo{display: table-cell;width: 33%;text-align: center;}
-.div-top-middle{display: table-cell;width: 33%;font-size: 24px;vertical-align: middle;text-align: center;}
-.div-top-form{display: table-cell;width: 33%;vertical-align: middle;}
-.div-contact{text-align: center;margin-top: 2%;font-size: 22px}
-.div-contact hr{width: 20%;border-top: 1px solid #A99C6D;color: transparent;}
-#Name {background-color: #A4965F;padding-top: 5px;text-align: center;color: #fff;border:none;box-shadow: 0 0 3px #000}
+.div-top-logo{display: table-cell;max-width: 33%;text-align: center;vertical-align: middle;}
+.div-top-middle{display: table-cell;max-width: 33%;font-size: 22px;vertical-align: middle;text-align: center;}
+.div-top-form{display: table-cell;width: 33%;vertical-align: middle;text-align: center}
+.form-title{font-size: 24px;}
+.div-contact{text-align: center;margin-top: 2%;font-size: 24px}
+.div-contact hr{width: 18%;border-top: 1px solid #A99C6D;color: transparent;min-width: 315px}
+#Name {background-color: #A4965F;padding-top: 5px;text-align: center;color: #fff;border:none;box-shadow: 0 0 5px #000}
+.text_box{text-align: center;background-color: #A4965F;color: #FFF;border: none;box-shadow: 0 0 1px #000;padding:13px 17px;margin: 3px}
+.form-left{width: 49%;display: table-cell;}
+.form-right{width: 49%;display: table-cell;}
+.form_button{background-color: #fff;border: none;color: #A4965F;font-size: 14px;margin: 0;padding: 0;vertical-align: top;}
+.form_error_highlight{background-color: #A0522D}
+.form_error{background-color: #D2B48C;padding: 10px;margin-left: 10%;max-width: 75%}
+#name{font-size: 30px}
+#hr-left {width: 29%;display: inline-block;color:#A4965F }
+#hr-right{width: 29%;display: inline-block;color: #A4965F}
