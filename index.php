@@ -16,13 +16,13 @@ function phpfmg_form( $sErr = false ){
 
 ?>
 <div class="top-container">
-  <div class="div-top-logo"><img src="libs/img/oak-appartments-logo.png" alt="OAK Appartments logo"  id="oak-logo"></div>
-  <div class="div-top-middle">1 BEDROOM STARTING FROM<br>
+  <span class="div-top-logo"><img src="libs/img/oak-appartments-logo.png" alt="OAK Appartments logo"  id="oak-logo"></span>
+  <span class="div-top-middle">1 BEDROOM STARTING FROM<br>
     <strong>$295,000.00</strong><br>
     2 BEDROOM STARTING FROM<br>
     <strong>$375,000.00</strong>
-  </div>
-  <div class="div-top-form"><span class="form-title">REGISTER YOUR INTEREST NOW</span>
+  </span>
+  <span class="div-top-form"><span class="form-title">REGISTER YOUR INTEREST NOW</span>
     <div id='frmFormMailContainer'>
         <form name="frmFormMail" id="frmFormMail" target="submitToFrame" action='<?php echo PHPFMG_ADMIN_URL . '' ; ?>' method='post' enctype='multipart/form-data' onsubmit='return fmgHandler.onSubmit(this);'>
         <input type='hidden' name='formmail_submit' value='Y'>
@@ -46,7 +46,7 @@ function phpfmg_form( $sErr = false ){
                 </span>
             </div>
         </form>
-    </div>
+    </span>
 <iframe name="submitToFrame" id="submitToFrame" src="javascript:false" style="position:absolute;top:-10000px;left:-10000px;" /></iframe>
 
 </div> 
