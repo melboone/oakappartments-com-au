@@ -7,7 +7,7 @@
 
 define( 'PAYPAL_ID' , '' ); // Put donation ID here to disable the bottom backlink
 
-define( 'PHPFMG_TO' , 'litcanu@gmail.com' );
+define( 'PHPFMG_TO' , 'sales@oakapartments.com.au' );
 define( 'PHPFMG_REDIRECT', '' ); 
 
 define( 'PHPFMG_ID' , '20130930-e712' ); 
@@ -95,7 +95,7 @@ function phpfmg_thankyou(){
 <!-- [Your confirmation message goes here] -->
 	<br>
 
-    <b>Your form has been sent. Thank you!</b>
+    <b>The form has been sent. Thank you!</b>
     <br><br>
 
 <?php
