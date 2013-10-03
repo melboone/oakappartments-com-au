@@ -64,16 +64,19 @@ Your form has been sent. Thank you!
         <div class="flexslider">
           <ul class="slides">
             <li>
-                <img src="images/kitchen_adventurer_cheesecake_brownie.jpg" />
+                <img src="images/interior1.jpg" />
                 </li>
                 <li>
-                <img src="images/kitchen_adventurer_lemon.jpg" />
+                <img src="images/interior2.jpg" />
                 </li>
                 <li>
-                <img src="images/kitchen_adventurer_donut.jpg" />
+                <img src="images/interior3.jpg" />
                 </li>
                 <li>
-                <img src="images/kitchen_adventurer_caramel.jpg" />
+                <img src="images/exterior1.jpg" />
+                </li>
+                <li>
+                <img src="images/exterior2.jpg" />
                 </li>
           </ul>
         </div>

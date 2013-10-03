@@ -1,8 +1,7 @@
-<?php exit(); /* For security reason. To avoid public user downloading below data! */?>
-2013-10-01 03:19:45	124.148.171.122	FormMail
+2013-10-03 15:48:04	124.148.171.122	FormMail
 [Email sent]
 --------------------------------------------------------------------------------
-To: litcanu@gmail.com
+To: sales@oakapartments.com.au
 Subject: ROI form - Oak Appartments
 Email sent
 From: <email@Julian.id.au>
@@ -12,7 +11,7 @@ Last Name 	 : Litcanu
 Postcode 	 : 3127
 Phone 	 : 0402546006
 Email 	 : email@Julian.id.au
-Comments 	 : so far so good
+Comments 	 : Testing the first submission
 <br>
 
 --------------------------------------------------------------------------------
